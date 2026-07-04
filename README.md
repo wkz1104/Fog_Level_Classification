@@ -1,0 +1,2 @@
+# Fog_Level_Classification
+基于深度学习算法EfficientNet的高速公路浓雾等级分类及预警系统设计。是我的毕业设计项目。
